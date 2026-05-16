@@ -6,7 +6,7 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your number: ");
+            Console.Write("Enter number: ");
             bool numValid = int.TryParse(Console.ReadLine(), out int num);
 
             while (!numValid)
