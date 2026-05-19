@@ -64,9 +64,6 @@ namespace ConsoleApp1
                         case 4:
                                 Console.WriteLine("Good bye!");
                             return;
-
-
-
                     }
                    
 
